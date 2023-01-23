@@ -19,3 +19,7 @@ Oluşan bu veri seti dosyası yazdığımız nesne tanıma kodumuz ile aynı kla
 ![4](https://user-images.githubusercontent.com/73904811/214069778-8720b877-7109-4665-8ade-1c7621332450.png)
 
 Veri seti dosyamızı oluşturduktan sonra yazdığımız koda geldiğimizde kodlarımızda kütüphanelerimiz tanımlanır. ‘CascadeClassifier’ fonksiyonumuzla özel nesne olarak tanımladığımız nesnenin veri seti dosyasına ulaşılır. Daha sonra kamera açma fonksiyonumuzu çağırılır. Sonrasında fps değerini hesaplayabilmek için ilk zaman değişkenlerini tanımlıyoruz. Bu işlemleri gerçekleştirdikten sonra döngümüzü oluşturuyoruz ve ekranımızı tanımlayıp, ekran pikselleri üzerinde gezinmesi ve nesneleri tanıması sağlanır. Nesneyi tanıdığında nesne üzerinde dikdörtgen çizme kodu yazılır ve ekran boyutu yeniden boyutlandırılır(500x300). Daha sonra fps değerlendirmesi için anlık piksel hızlarına bakılır ve fps değerleri ekranın sol üst köşesine anlık olarak yazdırılır. Ekranın kapatılması ve kodun sonlandırılması için çıkış tuşu olarak esc(27) tuşu atanmıştır. Bu tuşa basıldığında ekran kapanır ve kod sonlanır.
+
+
+https://user-images.githubusercontent.com/73904811/214070140-462b1520-4fe5-4e46-aa40-a26b0b394965.mp4
+
